@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Malindu</h1>
-<h3 align="center">I’m interested in fullstack development</h3>
+<h3 align="center">I’m interested in Network configuration and penetration testing</h3>
 
-- 🌱 I’m currently learning **Flutter, Laravel and java**
+- 🌱 I’m currently learning **Network and security**
 
 - 📫 How to reach me **malinduhansamal99@gmail.com**
 
-- ⚡ Fun fact **Errors**
+- ⚡ Fun fact **troubleshoot**
 
 <hr style="border: none; border-top: 0.2px solid #4f4f4f; margin: 10px 0; width: 100%;" />
 
